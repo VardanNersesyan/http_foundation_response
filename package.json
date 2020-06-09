@@ -1,0 +1,28 @@
+{
+  "name": "http-foundation-response",
+  "version": "1.0.0",
+  "description": "Constants enumerating the HTTP status codes. And HTTP status texts. Based on the Symfony package HttpFoundation component.",
+  "main": "index.js",
+  "keywords": [
+    "node",
+    "http",
+    "apache",
+    "HttpStatus",
+    "httpclient",
+    "status",
+    "codes"
+  ],
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/VardanNersesyan/http_foundation_response.git"
+  },
+  "author": "Vardan <nersesyan.v.a@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/VardanNersesyan/http_foundation_response/issues"
+  },
+  "homepage": "https://github.com/VardanNersesyan/http_foundation_response#readme"
+}
